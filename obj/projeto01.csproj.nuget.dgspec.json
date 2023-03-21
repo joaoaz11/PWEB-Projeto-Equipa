@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\Git tarefa\\teste01\\teste01.csproj": {}
+    "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\projeto01\\projeto01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\Git tarefa\\teste01\\teste01.csproj": {
+    "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\projeto01\\projeto01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\Git tarefa\\teste01\\teste01.csproj",
-        "projectName": "teste01",
-        "projectPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\Git tarefa\\teste01\\teste01.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\projeto01\\projeto01.csproj",
+        "projectName": "projeto01",
+        "projectPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\projeto01\\projeto01.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\Git tarefa\\teste01\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Formacao WEB\\Metodologias de Desenvolvimento de Software\\projeto01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
