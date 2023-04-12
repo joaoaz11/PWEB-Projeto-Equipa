@@ -1,0 +1,94 @@
+html {
+  position: relative;
+  min-height: 100%;
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin-bottom: 0;
+}
+
+body > header {
+}
+
+body > .banner {
+  background-color: #0f0f0f;
+  background-image: url('/images/banner-campeao-bwin-large.webp');
+  background-position: center;
+  background-size: cover;
+  height: 270px;
+  margin-top: -16px;
+  margin-bottom: 16px;
+}
+
+body > .banner::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 270px;
+  background-image: linear-gradient(to right, black, transparent, black);
+}
+
+body > .banner::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 270px;
+  background-image: url('/images/banner-campeao-bwin-large.webp');
+  background-repeat: no-repeat;
+  background-position-x: 0;
+  background-position-y: -180px;
+}
+
+@media (min-width: 1200px) {
+  body > .banner::after {
+    background-position-x: center;
+  }
+}
+
+body > main {
+  flex-grow: 1;
+}
+
+body > main > .container {
+    height: 100%;
+}
+
+body > footer {
+    background: #f0f0f0;
+}
+
+.equipa-index {
+    background-image: linear-gradient(transparent 90%, #fecc00, #fda023);
+}
+
+.equipa-create {
+    background-image: linear-gradient(transparent 90%, #007bff);
+}
+
+.equipa-details {
+    background-image: linear-gradient(transparent 90%, #17a2b8);
+}
+
+.equipa-edit {
+    background-image: linear-gradient(transparent 90%, #28a745);
+}
+
+.equipa-delete {
+    background-image: linear-gradient(transparent 80%, #dc3545);
+}

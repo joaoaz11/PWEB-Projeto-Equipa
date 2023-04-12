@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ufcd10789-Tarefa06.props" />
+</Project>

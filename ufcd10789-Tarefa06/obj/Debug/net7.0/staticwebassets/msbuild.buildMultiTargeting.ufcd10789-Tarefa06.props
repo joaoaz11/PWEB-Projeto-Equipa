@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ufcd10789-Tarefa06.props" />
+</Project>
